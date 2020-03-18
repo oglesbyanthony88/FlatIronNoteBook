@@ -1,0 +1,52 @@
+# README
+
+This is a notebook used to store notes from my flatiron cohorts live lectures.
+
+* Vanilla Ruby []
+	- Arrays & Iteration []
+	- Into to OO Ruby []
+	- How to Read & Solve Errors []
+	- Tic Tac Toe []
+	- OO Relationships []
+	- Scraping w/ Nokogiri []
+	- Scraper Gem CLI []
+
+* SQL []
+	- Intro to SQL []
+	- Building an ORM from Scratch []
+	- ORM from Scratch pt 2 []
+
+* ActiveRecord and Sinatra []
+	- Intro to Active Record []
+	- ActiveRecord Associations []
+	- Sinatra Basics []
+	- Sinatra MVC/Forms pt 1 []
+	- Sinatra MVC/Forms pt 2 []
+	- Sinatra User Auth []
+
+* Rails []
+	- Intro To Rails []
+	- Rails Models, Routes, Forms, Path Helpers []
+	- Rails Crud []
+	- Rails Validations []
+	- Nested Forms & Associations []
+	- Refactoring w Layouts, Partials, Helpers []
+	- Nested Routes []
+	- OmniAuth []
+	- Rails Project Prep []
+
+* Vanilla Javascript and Rails API []
+	- Intro to DOM []
+	- JS Fundamentals []
+	- JS Fundamentals (cont'd), Scope, Hoisting []
+	- JS Events []
+	- ASYNC JS []
+	- Rails as API []
+	- CRUD []
+	- ES6 [x]
+	- OO ToyTale []
+
+* React and Redux []
+	- Intro to React & Components []
+	- Props, State, Events []
+	- Lifecycle Methods, Forms []	
